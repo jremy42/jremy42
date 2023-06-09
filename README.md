@@ -6,7 +6,6 @@
 
 - 📄 Know about my experiences [https://cv.jremy.dev](https://cv.jremy.dev)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
