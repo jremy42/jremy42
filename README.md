@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **jremy@student.42.fr**
 
-- 📄 Know about my experiences [https://cv.jremy.dev](https://cv.jremy.dev)
-
 <p align="left">
 </p>
 
